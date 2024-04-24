@@ -1,8 +1,8 @@
 ### Hi there, I'm Victor 👋
-I'm a Master student at Heidelberg University, welcome to my repo! If you have any suggestions, please reach out :D
+I'm aresearcher at Heidelberg University Hospital, welcome to my repo! If you have any suggestions, please reach out :D
 
 - About me: 🧗‍♂️ aficionado, 👨‍🍳 in my free time. Also all those 'basic' hobbies 📖🛩️🎶🏖️
-- 📫 How to reach me: victor.paton_gonzalez@stud.uni-heidelberg.de
+- 📫 How to reach me: victor.paton@uni-heidelberg.de
 - I speak :es: :gb: :fr: and I am learning :de:
 
 ## Some music :) 🔊

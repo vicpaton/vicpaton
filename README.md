@@ -6,7 +6,7 @@ I'm a researcher at Heidelberg University Hospital, welcome to my repo! If you h
 - I speak :es: :gb: :fr: and I am learning :de:
 
 ## Some music :) 🔊
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21667wx7pmycall7xovnqedxy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21667wx7pmycall7xovnqedxy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 <!--

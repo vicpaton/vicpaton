@@ -1,9 +1,8 @@
 ### Hi there, I'm Victor 👋
-I'm a researcher at Heidelberg University Hospital, welcome to my repo! If you have any suggestions, please reach out :D
+I'm a PhD student at EMBL (James Sharpe group) in ☀️ Barcelona, previously researcher at Heidelberg University Hospital (Julio Saez Rodriguez group), welcome to my repo! If you have any suggestions, please reach out :D
 
 - About me: 🧗‍♂️ aficionado, 👨‍🍳 in my free time. Also all those 'basic' hobbies 📖🛩️🎶🏖️
-- 📫 How to reach me: victor.paton@uni-heidelberg.de
-- I speak :es: :gb: :fr: and I am learning :de:
+- 📫 How to reach me: victor.paton@embl.es
 
 ## Some music :) 🔊
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21667wx7pmycall7xovnqedxy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
